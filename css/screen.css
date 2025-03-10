@@ -1,0 +1,41 @@
+
+		#prevBtn, #nextBtn{ 
+			display:block;
+		width:696px;
+		height:77px;
+		position:absolute;
+		left:-30px;
+		top:170px;
+			}	
+		#nextBtn{ 
+			left:696px;
+			}														
+		#prevBtn a, #nextBtn a{  
+					display:block;
+		width:696px;
+		height:77px;
+			background:url(../images/btn_prev.gif) no-repeat 0 0;	
+			}	
+		#nextBtn a{ 
+			background:url(../images/btn_next.gif) no-repeat 0 0;	
+			}								
+	
+	/* // slider */													
+
+	.grid_p{
+		background-color: #F9A825;
+		
+	}
+	
+	.gallery{
+	
+	background-color:#F9A825;
+		
+	width:100%;
+	
+
+	
+}										
+
+
+

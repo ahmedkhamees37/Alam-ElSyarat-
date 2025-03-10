@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+.head{
+	 direction:rtl;
+	 color:#fff;
+	 font-family:"Times New Roman",Times ,serif;
+	 font-size:20px;
+	 font-weight:bold;
+	 padding:19px 11px 11px 11px;
+	 text-shadow:1px 1px #000;
+	 background-color:#F93;
+	 margin:0 auto;
+	 margin-top: 5px;
+	 border:solid #fff 1px;
+	 border-radius:4px 4px 4px 4px;
+	 width:94%;
+}
+	.det{
+		 direction:rtl;
+	 color:#fff;
+	 font-family:"Times New Roman",Times ,serif;
+	 font-size:16px;
+	 font-weight:bold;
+	 padding:19px 11px 11px 11px;
+	 text-shadow:1px 1px #000;
+	 background-color:#F93;
+	 margin:0 auto;
+	 margin-top: 5px;
+	 border:solid #fff 1px;
+	 border-radius:4px 4px 4px 4px;
+	 width:94%;
+}			
